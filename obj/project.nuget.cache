@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DOZ5/4iKlaQyiLTlxar6/wtGcAyLxPJHNeCA+dtJgY1+nfjUt3n0etR9ZOrnT7WKHQQEyD2dNw2UqTeBRQCVaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palla\\source\\repos\\184-RFP\\AddressBookProblem_Day27\\AddressBookProblem_Day27\\AddressBookProblem_Day27.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palla\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
